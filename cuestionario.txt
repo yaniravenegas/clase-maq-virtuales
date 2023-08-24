@@ -1,0 +1,8 @@
+1. Principalmenter la compatibilidad. Algunos lenguajes de programacion estan desarrollados para ejecutarse en ciertos sistemas operativos
+ y para una arquitectura especifica.
+
+2. Del tipo 2, ya que se ejecuta sobre un SO existente.
+
+3. Administra la creacion y los recursos asignados a las maquinas virtuales.
+
+4. Podria darse en el caso que las maquinas virtuales compitan por los recursos del sistema anfitrion.
